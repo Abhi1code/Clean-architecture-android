@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "com.mindorks.framework.mvvm.custom.prefs";
+option java_multiple_files = true;
+
+message User {
+  string name = 1;
+  int32 id = 2;
+  bool is_registered = 3;
+}

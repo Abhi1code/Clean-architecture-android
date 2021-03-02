@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88513477002",
+    "firebase_url": "https://webrtc-tutorial-471cd-default-rtdb.firebaseio.com",
+    "project_id": "webrtc-tutorial-471cd",
+    "storage_bucket": "webrtc-tutorial-471cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88513477002:android:6a6cca6c7de2a8bf013073",
+        "android_client_info": {
+          "package_name": "com.mindorks.framework.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88513477002-upfkp42klar2v3rkf0fcfgatnbec5cdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYWnnvwpPCQTFW0uHEkJ-tocJ3rylBUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88513477002-upfkp42klar2v3rkf0fcfgatnbec5cdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
